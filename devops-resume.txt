@@ -1,0 +1,157 @@
+NAME  Dmytro Gorbunov
+
+email: dmitro.gorbunov@gmail.com
+skype: dmytro.gorbunov
+
+SYNOPSIS
+  Looking for DevOps Engineer job
+
+EDUCATION/CERTIFICATES
+  2017: AWS Certified DevOps Engineer - Professional
+  2016,2018: AWS Certified Solution Architect - Associate
+  2016: 2-days training about SAF (Scaled Agile Framework)
+  2015: AWS Certified Developer - Associate
+  2005: successfully completed 3-weeks Personal Software Process courses
+  2002: graduated from Kharkov Technical University(Ukraine) with specialist degree
+
+LANGUAGES
+  English   - fluent
+  Russian   - native
+  Ukrainian - native
+  Dutch     - intermediate (A2 level)
+  Spanish   - basic
+
+PROGRAMMING LANGUAGES
+  - Bash, Perl, Python, JavaScript
+  - C, C++, Java
+
+LIKE
+  - solving problems, develop and deploy robust, simple and efficient solutions
+  - following infrastructure as a code principle  
+  - troubleshooting, log/traffic/performance analysis, discovering and preventing security issues
+
+SKILLS/ACTIVITIES
+
+    - analysis of business requirements and translate them into technical specification 
+    - define risks and develop actions to handle them
+    - design highly available and cost efficient architectures
+    - cost reduction and optimization for resources in the Cloud (AWS)
+    - making one-click-deployment possible
+    - troubleshooting and problem solving
+    - implement monitoring and alarms
+    - use perl/bash/git for automate routine tasks 
+    - virtualization technologies: KVM, Xen
+    - implementation secure and reliable backups
+    - DBMS as a developer and administrator (SQLite, MySQL, PostgreSQL)
+    - setup network services (DNS, SSH, FTP, mail)
+    - log analysis and monitoring
+
+WORKING EXPERIENCE
+
+November 2017 - present, System Engineer at BMG Bank
+
+   Support and develop various CI/CD pipelines in the environment with a lot of regulations, 
+   compliance with internal and external standards.
+   Setup SEM, taking part in vulnerability management processes, patching, configure WAF.
+   Configuration of central logs processing using ELK, monitoring with Graphana/Prometheus.
+   Multiple migration tasks for applications in virtual private clouds.
+
+   Development with : Ansible(Python), some Ruby scritps, Java (for Jenkins Plugin development),
+                      Groovy (Jenkins DSL), Grok patterns (for Logstash), Bash 
+
+   Used tools/services: RedHat 6,7, Docker, BoKS, RBAC, Artifactory, Jira/Confluence, 
+                        Jenkins, GitLab, SonarQube, ElasticSearch, Kibana,
+                        TFS, Kafka, Ansible Tower, Selenium
+
+
+April 2016 - November 2017 Senior DevOps Engineer at Qardio Inc.
+   Site: https://www.getqardio.com
+
+   Taking the lead in DevOps team with the following main responsibilities:
+   - troubleshooting
+   - coaching junior team members
+   - improving infrastructure and automating tasks
+   - following infrastructure as a code principle using SaltStack, Packer, AWS CloudFormation, Terraform
+   - setup integrated CI/CD pipelines for developers using GitLab, Jenkins, AWS CodeDeploy
+   - setup automated native builds for applications running on Android and iOS
+   - setup and maintain LDAP (ApacheDS, openldap), Jira/Confluence, VPN
+   - took part in design and setup for multi-region distributed system (IPSec, HTTP webhooks, AWS SNS, AWS Lambda)
+   - setup secure stable connection through Great Firewall of China
+   - participate in writing internal services and proxies using Node.js, Memcached, NGINX
+   - develop and maintain solution for cross-region synchronizations using AWS Lambda
+   - setup access for shared resources for multiple AWS accounts
+   - setup and improve monitoring and alerts using ELK stack, MMonit, NewRelic and custom scripts
+   - improve speed and optimize costs for resources in Amazon Web Services
+   - security audit as a part of preparation for HIPAA certification
+   - maintain and improve documentation
+   - introduce and support for internal SSL CA
+   - regular security scanning for the infrastructure (internal and external)
+   - maintain and improve multi-tiered website (PHP, RDS, NGINX, CloudFront)
+   - automate deployments and tune Java services (Apache Tomcat, Spring Boot)
+
+   Used tools/services: SaltStack, NGINX, Amazon CodeDeploy, Amazon CloudFormation, 
+         Amazon Lambda (Python and Node.js), Amazon CloudFront, ElasticSearch, Docker
+   Used languages: Bash, Python, JavaScript(Node.js), Perl
+
+2013 - April 2016 Software Developer in TomTom International BV
+  Site: http://www.tomtom.com Location: Amsterdam
+
+  Took Full Stack Developer role together with helping other teams with setup CD/CI 
+  and automated tests using Amazon Web Services.
+
+  Responsibilities :
+   - develop secure client-server solution for content delivery to sales and beta testers
+   - lead DevOps tasks for a few internal teams
+   - develop and setup running automated tests on AWS for Android using UIAutamator
+   - maintain cross-platform multi-device tests using Ranorex
+   - write monitoring tools for servers in AWS
+   - deploy and support infrastructure for SSL Certificate Authority
+  Used for development: Java (Spring for server and Android SDK on client side), Python, various AWS services, git, bash
+  Used for DevOps tasks: AWS CloudFormation, Packer, Sonatype Nexus, Jenkins
+
+2011 - 2013 Software Developer in TomTom International BV
+   - develop and improve architecture of cross-platform client for Live Services
+   - bugfixing and troubleshooting for Android and Linux platform (with tcpdump, Wireshark, etc)
+  Used: C++(GCC), VIM, GDB, Java, Perforce, git, Jira 
+
+Jan 2008 - 2011 Software Developer in TomTom International BV
+   - improve custom framework for rendering UI
+   - integration for ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) 3rd Party tools 
+   - bugfixing and troubleshooting in Embedded Linux
+  Used: C++(GCC, MS Visual Studio), vim, Perforce
+
+May 2007 - Dec 2007 Software Developer in Accent Pointe BV
+  Site: http://www.accentpointe.nl Location: Amsterdam
+  - support and develop internal client/server system for trading (EURONEXT stock exchange)
+  - research and some performance improvements were made (WinDBG, Profilers, logs, crash dumps, etc)
+  Used: C++ (MS Visual Studio), MS SQL, VSS 
+
+Feb 2006 - Feb 2007 Automating Test Engeneer in CQG Inc.
+  Site: http://cqg.com Location: Ukraine(Kiev), Russia, USA
+  - develop testing framework for data analysis and validation
+  - coaching colleagues
+  Used: MS Visual Studio, Perl, AutoHotKey, Nant, C#, CVS
+
+2001-2005 - Software developer in outsource companies
+  Location: Ukraine(Kharkov)
+  About 15 small and middle size projects were finished successfully.
+  Programming for Palm OS (security researches, synchronization utilities),
+  Windows CE (with Embedded VB, Embedded Visual Studio), 
+  Microsoft Windows (C, C++, Lua, PHP, XSLT, DirectX, DDK)
+
+Jan 2002 - March 2002 post-graduate practice in Aldec Inc.
+  Site: http://aldec.com Location: Katowice (Poland)
+  - develop UI elements (Win32, ATL) for Active HDL IDE
+  - took part into developing scripts for automate testing using embedded Perl
+
+PERSONAL ACHIEVEMENTS
+
+- Writing articles to personal blog http://contrall.info (mostly about Amazon Web Services)
+- Link to my github https://github.com/gdm
+- Contributed to CPAN (Perl)
+   http://search.cpan.org/~gdm/
+- Contributed to Open Source projects by finding some security issues in C/C++ source code
+   http://savesources.com/what-was-done.html
+   http://www.scip.ch/en/?vuldb.4742
+- Supported small web hosting for design studio as a hobby project (during 2012-2014)
+    (Nginx, PHP, Ruby, MySQL, PostgreSQL)

@@ -22,7 +22,7 @@ LANGUAGES
   Spanish   - basic
 
 PROGRAMMING LANGUAGES
-  - Bash, Perl, Python, JavaScript
+  - Bash, Python, Perl
   - C, C++, Java
 
 LIKE
@@ -40,21 +40,22 @@ SKILLS/ACTIVITIES
     - troubleshooting and problem solving
     - implement monitoring and alarms
     - use perl/bash/git for automate routine tasks 
-    - virtualization technologies: KVM, Xen
     - implementation secure and reliable backups
     - DBMS as a developer and administrator (SQLite, MySQL, PostgreSQL)
-    - setup network services (DNS, SSH, FTP, mail)
+    - setup network services (DNS, SSH, FTP, e-mail)
     - log analysis and monitoring
 
 WORKING EXPERIENCE
 
 November 2017 - present, System Engineer at BMG Bank
-
+   
+   Support/trobleshooting for about 10 developers teams.
+   Migration CI/CD Pipelines to TFS and Azure DevOps Pipelines (Microsoft).
    Support and develop various CI/CD pipelines in the environment with a lot of regulations, 
    compliance with internal and external standards.
    Setup SEM, taking part in vulnerability management processes, patching, configure WAF.
-   Configuration of central logs processing using ELK, monitoring with Graphana/Prometheus.
-   Multiple migration tasks for applications in virtual private clouds.
+   Custom CI/CD pupelines were build using Jenkins, SonarQube, Artifactory and other tools.
+   Configuration of central logs processing using ELK, monitoring with Graphana/Prometheus/AlertManager.
 
    Development with : Ansible(Python), some Ruby scritps, Java (for Jenkins Plugin development),
                       Groovy (Jenkins DSL), Grok patterns (for Logstash), Bash 
@@ -83,7 +84,6 @@ April 2016 - November 2017 Senior DevOps Engineer at Qardio Inc.
    - setup and improve monitoring and alerts using ELK stack, MMonit, NewRelic and custom scripts
    - improve speed and optimize costs for resources in Amazon Web Services
    - security audit as a part of preparation for HIPAA certification
-   - maintain and improve documentation
    - introduce and support for internal SSL CA
    - regular security scanning for the infrastructure (internal and external)
    - maintain and improve multi-tiered website (PHP, RDS, NGINX, CloudFront)
@@ -112,13 +112,13 @@ April 2016 - November 2017 Senior DevOps Engineer at Qardio Inc.
 2011 - 2013 Software Developer in TomTom International BV
    - develop and improve architecture of cross-platform client for Live Services
    - bugfixing and troubleshooting for Android and Linux platform (with tcpdump, Wireshark, etc)
-  Used: C++(GCC), VIM, GDB, Java, Perforce, git, Jira 
+  Used: C++(GCC), Vim, gdb, Java, Perforce, git, Jira/Confluence
 
 Jan 2008 - 2011 Software Developer in TomTom International BV
    - improve custom framework for rendering UI
    - integration for ASR (Automatic Speech Recognition) and TTS (Text-to-Speech) 3rd Party tools 
    - bugfixing and troubleshooting in Embedded Linux
-  Used: C++(GCC, MS Visual Studio), vim, Perforce
+  Used: C++(GCC, MS Visual Studio), Vim, Perforce
 
 May 2007 - Dec 2007 Software Developer in Accent Pointe BV
   Site: http://www.accentpointe.nl Location: Amsterdam
@@ -130,7 +130,7 @@ Feb 2006 - Feb 2007 Automating Test Engeneer in CQG Inc.
   Site: http://cqg.com Location: Ukraine(Kiev), Russia, USA
   - develop testing framework for data analysis and validation
   - coaching colleagues
-  Used: MS Visual Studio, Perl, AutoHotKey, Nant, C#, CVS
+  Used: MS Visual Studio, Perl, AutoHotKey, C#, CVS
 
 2001-2005 - Software developer in outsource companies
   Location: Ukraine(Kharkov)
@@ -146,10 +146,7 @@ Jan 2002 - March 2002 post-graduate practice in Aldec Inc.
 
 PERSONAL ACHIEVEMENTS
 
-- Writing articles to personal blog http://contrall.info (mostly about Amazon Web Services)
 - Link to my github https://github.com/gdm
-- Contributed to CPAN (Perl)
-   http://search.cpan.org/~gdm/
 - Contributed to Open Source projects by finding some security issues in C/C++ source code
    http://savesources.com/what-was-done.html
    http://www.scip.ch/en/?vuldb.4742

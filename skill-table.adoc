@@ -1,0 +1,17 @@
+
+.Skill table
+
+|==========================
+| Technology | Details | Experience (years) 
+| AWS | Lambda (Python and Node.js), EC2, CloudFormation, Terraform, IAM, DynamoDB, RDS, etc | 5+ 
+| Azure | TFS, Azure Pipelines | 2 
+| SRE | Prometheus, Grafana, ELK, MMonit | 4 
+| Configuration as a Code | Ansible, SaltStack | 4 
+| NoSQL | DynamoDB | 2
+| Scripting | Python, Perl, Node.js, Bash, Ruby | 5+
+| Programming | Java (Spring, Android), C/C++ | 10+ 
+| Development tools | Git, Perforce, Maven, Gradle, CMake, etc | 10+
+| CI/CD tools | Jenkins, GitLab | 8+
+|==========================
+
+

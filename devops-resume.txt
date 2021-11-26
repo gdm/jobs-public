@@ -1,7 +1,6 @@
 NAME  Dmytro Gorbunov
 
-email: dmitro.gorbunov@gmail.com
-skype: dmytro.gorbunov
+email: dmytro.gorbunov@gmail.com
 
 SYNOPSIS
   Looking for DevOps Engineer job

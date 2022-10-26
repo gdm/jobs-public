@@ -18,6 +18,7 @@ LANGUAGES
   English   - fluent
   Russian   - native
   Ukrainian - native
+  German    - basic, studying
   Dutch     - intermediate (A2 level)
   Spanish   - basic
 
@@ -47,7 +48,7 @@ SKILLS/ACTIVITIES
 
 WORKING EXPERIENCE
 
-November 2017 - present, System Engineer at BMG Bank
+November 2017 - June 2022, System Engineer at BMG Bank
    
    Support/trobleshooting for about 10 developers teams.
    Migration CI/CD Pipelines to TFS and Azure DevOps Pipelines (Microsoft).

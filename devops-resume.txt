@@ -48,6 +48,9 @@ SKILLS/ACTIVITIES
 
 WORKING EXPERIENCE
 
+July 2022 - now, SDE (Software Development Engineer) at Amazon Development Center Germany GmbH
+  
+
 November 2017 - June 2022, System Engineer at BMG Bank
    
    Support/trobleshooting for about 10 developers teams.

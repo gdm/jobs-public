@@ -134,7 +134,7 @@ May 2007 - Dec 2007 Software Developer in Accent Pointe BV
   Used: C++ (MS Visual Studio), MS SQL, VSS 
 
 Feb 2006 - Feb 2007 Automating Test Engineer in CQG Inc.
-  Site: http://cqg.com Location: Ukraine(Kiev), Russia, USA
+  Site: http://cqg.com Location: Ukraine (Kyiv)
   - develop testing framework for data analysis and validation
   - coaching colleagues
   Used: MS Visual Studio, Perl, AutoHotKey, C#, CVS

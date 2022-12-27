@@ -118,7 +118,7 @@ April 2016 - November 2017 Senior DevOps Engineer at Qardio Inc.
 
 2011 - 2013 Software Developer in TomTom International BV
    - develop and improve architecture of cross-platform client for Live Services
-   - bugfixing and troubleshooting for Android and Linux platform (with tcpdump, Wireshark, etc)
+   - bugfixing and troubleshooting for Android and Linux platform (with tcpdump, Wireshark, etc.)
   Used: C++(GCC), Vim, gdb, Java, Perforce, git, Jira/Confluence
 
 Jan 2008 - 2011 Software Developer in TomTom International BV
@@ -149,12 +149,12 @@ Feb 2006 - Feb 2007 Automating Test Engineer in CQG Inc.
 Jan 2002 - March 2002 post-graduate practice in Aldec Inc.
   Site: http://aldec.com Location: Katowice (Poland)
   - develop UI elements (Win32, ATL) for Active HDL IDE
-  - took part into developing scripts for automate testing using embedded Perl
+  - took part into developing scripts for automating testing using embedded Perl
 
 PERSONAL ACHIEVEMENTS
 
-- Link to my github https://github.com/gdm
-- Contributed to Open Source projects by finding some security issues in C/C++ source code
+- Link to my GitHub page: https://github.com/gdm
+- Contributed to Open-source projects by finding some security issues in C/C++ source code
    http://www.scip.ch/en/?vuldb.4742
 - Supported small web hosting for design studio as a hobby project (during 2012-2014)
     (Nginx, PHP, Ruby, MySQL, PostgreSQL)

@@ -13,7 +13,7 @@ EDUCATION/CERTIFICATES
   2016: 2-days training about SAF (Scaled Agile Framework)
   2015: AWS Certified Developer - Associate
   2005: successfully completed 3-weeks Personal Software Process courses
-  2002: graduated from Kharkov Technical University(Ukraine) with specialist degree
+  2002: graduated from Kharkiv Technical University with specialist degree
 
 LANGUAGES
   English   - fluent
@@ -36,13 +36,13 @@ SKILLS/ACTIVITIES
 
     - analysis of business requirements and translate them into technical specification 
     - define risks and develop actions to handle them
-    - design highly available and cost efficient architectures
+    - design highly available and cost-efficient architectures
     - cost reduction and optimization for resources in the Cloud (AWS)
     - making one-click-deployment possible
-    - troubleshooting and problem solving
+    - troubleshooting and problem-solving
     - implement monitoring and alarms
-    - use perl/bash/git for automate routine tasks 
-    - implementation secure and reliable backups
+    - use Perl/bash/git for automate routine task
+    - implementation of secure and reliable backups
     - DBMS as a developer and administrator (SQLite, MySQL, PostgreSQL)
     - setup network services (DNS, SSH, FTP, e-mail)
     - log analysis and monitoring
@@ -54,17 +54,17 @@ July 2022 - now, SDE (Software Development Engineer) at Amazon Development Cente
 
 November 2017 - June 2022, System Engineer at BMG Bank
    
-   Support/trobleshooting for about 10 developers teams.
+   Support/troubleshooting for about 10 developers teams.
    Migration CI/CD Pipelines to TFS and Azure DevOps Pipelines (Microsoft).
    Migration to Kubernetes architecture.
    Take part in activities as a member of SRE team (monitoring and defining SLA/SLO).
-   Configuration of central logs processing using ELK, monitoring with Graphana/Prometheus/AlertManager.
+   Configuration of central logs processing using ELK, monitoring with Grafana/Prometheus/AlertManager.
    Support and develop various CI/CD pipelines in the environment with a lot of regulations, 
    compliance with internal and external standards.
    Setup SEM, taking part in vulnerability management processes, patching, configure WAF.
-   Custom CI/CD pupelines were build using Jenkins, SonarQube, Artifactory and other tools.
+   Custom CI/CD pipelines were built using Jenkins, SonarQube, Artifactory and other tools.
 
-   Development with : Ansible(Python), some Ruby scritps, Java (for Jenkins Plugin development),
+   Development with : Ansible (Python), some Ruby scritps, Java (for Jenkins Plugin development),
                       Groovy (Jenkins DSL), Grok patterns (Logstash), Bash 
 
    Used tools/services: RedHat 6,7, Docker, BoKS, RBAC, Artifactory,
@@ -133,14 +133,14 @@ May 2007 - Dec 2007 Software Developer in Accent Pointe BV
   - research and some performance improvements were made (WinDBG, Profilers, logs, crash dumps, etc)
   Used: C++ (MS Visual Studio), MS SQL, VSS 
 
-Feb 2006 - Feb 2007 Automating Test Engeneer in CQG Inc.
+Feb 2006 - Feb 2007 Automating Test Engineer in CQG Inc.
   Site: http://cqg.com Location: Ukraine(Kiev), Russia, USA
   - develop testing framework for data analysis and validation
   - coaching colleagues
   Used: MS Visual Studio, Perl, AutoHotKey, C#, CVS
 
 2001-2005 - Software developer in outsource companies
-  Location: Ukraine(Kharkov)
+  Location: Ukraine (Kharkiv)
   About 15 small and middle size projects were finished successfully.
   Programming for Palm OS (security researches, synchronization utilities),
   Windows CE (with Embedded VB, Embedded Visual Studio), 

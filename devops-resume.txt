@@ -41,7 +41,7 @@ SKILLS/ACTIVITIES
     - making one-click-deployment possible
     - troubleshooting and problem-solving
     - implement monitoring and alarms
-    - use Perl/bash/git for automate routine task
+    - use Perl/Python/bash/git for automating routine task
     - implementation of secure and reliable backups
     - DBMS as a developer and administrator (SQLite, MySQL, PostgreSQL)
     - setup network services (DNS, SSH, FTP, e-mail)

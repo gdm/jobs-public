@@ -109,7 +109,7 @@ April 2016 - November 2017 Senior DevOps Engineer at Qardio Inc.
   Responsibilities :
    - develop secure client-server solution for content delivery to sales and beta testers
    - lead DevOps tasks for a few internal teams
-   - develop and setup running automated tests on AWS for Android using UIAutamator
+   - develop and setup running automated tests on AWS for Android using UIAutomator
    - maintain cross-platform multi-device tests using Ranorex
    - write monitoring tools for servers in AWS
    - deploy and support infrastructure for SSL Certificate Authority

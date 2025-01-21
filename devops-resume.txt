@@ -19,9 +19,9 @@ LANGUAGES
   English   - fluent
   Russian   - native
   Ukrainian - native
-  German    - basic, studying
+  German    - intermediate (B1-B2 level)
   Dutch     - intermediate (A2 level)
-  Spanish   - basic
+  Spanish   - basic (A1-A2)
 
 PROGRAMMING LANGUAGES
   - Bash, Python, Perl
@@ -49,8 +49,21 @@ SKILLS/ACTIVITIES
 
 WORKING EXPERIENCE
 
+February 2023 - December 2024 Senior DevOps Engineer at automateops.io
+
+   Plan, negotiate and execute Kubernetes, Postgres and Apache Kafka upgrades.
+   Improvements and development for IaaC using Terraform, Terragrunt, Serverless framework.
+   Cost optimization, implementing and monitoring scalability for AWS resources.
+   Migration from Concourse CI to Github Actions.
+   Trobleshooting, solving performance issues.
+   Coaching team members, improving cross-teams communication.
+   Introduced SRE best practices such as measuring downtime, error budgets.
+   Taking part of implementing serverless services (AWS Lambda) using Java and Python.
+
+
 July 2022 - Dec 2022, SDE (Software Development Engineer) at Amazon Development Center Germany GmbH
-  
+
+   Improve security and compliance, writing scripts in Ruby, Python and Node.js, troubleshooting.
 
 November 2017 - June 2022, System Engineer at BMG Bank
    

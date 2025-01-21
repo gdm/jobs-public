@@ -2,7 +2,7 @@
 .Working experience
 [%autowidth]
 |===
-| From | To | Place | Company | Verifiable | Details
+| From [nowrap]| To [nowrap]| Place | Company | Verifiable | Details
 | 2023-02 
 | 2024-11 
 | Dresden, Germany (remote) 

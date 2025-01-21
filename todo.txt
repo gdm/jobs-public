@@ -1,0 +1,7 @@
+build pdf from adoc - https://github.com/asciidoctor/asciidoctor-pdf
+Ubuntu/Debian:
+```
+apt-get install ruby-asciidoctor-pdf
+asciidoctor-pdf working-experience.adoc
+# file working-experience.pdf should be created
+```

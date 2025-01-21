@@ -1,6 +1,5 @@
 
 .Working experience
-[%autowidth]
 |===
 | From [nowrap]| To [nowrap]| Place | Company | Verifiable | Details
 | 2023-02 
